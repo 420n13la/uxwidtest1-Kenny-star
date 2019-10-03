@@ -1,3 +1,62 @@
 body{
-
+	font-family: 'Helvetica', sans-serif;
+	background-image:url(pattern.png);
+	
 }
+#wrapper {
+	width:77%;
+	text-align: center;
+	padding: 3%;
+	margin-bottom:33px;
+	margin-top: 33px;
+	background-color: whitesmoke;
+	
+}
+#frame {
+	text-align: center;
+	height: 470px;
+}
+
+.legend {
+	text-align: center;
+	position: 40px;
+}
+.photo{
+	height: 100%;
+	
+}
+.legend {
+	color: #95484b;
+	font-weight: bold;
+	text-align: center;
+	background-color: white;
+	display: block;
+}
+.logo{
+	width: 11%;
+	padding: 30px;
+}
+.hyperlinks{
+	border: 3px solid white;
+	background-color: #95484b;
+	color: white;
+	padding: 0.2em;
+	text-decoration: none;
+}
+header{
+	padding: 9px;
+	background-image: linear-gradient (to bottom, #95484b,#af595c,#6f3032);
+}
+nav{
+	margin-top: -15px;
+	text-align: +30%;
+}
+footer{
+	padding-top: 1em;
+	padding-bottom: 1em;
+	text-align: center;
+}
+span{
+	color: deeppink;
+}
+
